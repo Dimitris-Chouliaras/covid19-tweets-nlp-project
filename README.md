@@ -21,14 +21,14 @@ The project lifecycle follows a structured text mining pipeline:
 Using a lexicon-based approach with a designated **neutrality zone ($\pm0.15$)**, the overall sentiment orientation highlights a predominantly optimistic outlook, despite the gravity of the pandemic.
 
 <p align="center">
-  <img src="screenshots/3. SentimentPieChart.png" width="500" alt="Overall Sentiment Distribution">
+  <img src="screenshots/4.1 SentimentPieChart.png" width="500" alt="Overall Sentiment Distribution">
 </p>
 
 ### 2. Emotional Profile (NRC Lexicon)
 Going beyond binary polarity, the multi-categorical emotional analysis tracks 8 basic psychological states. **Trust** emerges as the leading factor, indicating public reliance on healthcare directives, followed closely by **Fear**.
 
 <p align="center">
-  <img src="screenshots/4. NRCEmotionsBarChart.png" width="600" alt="NRC Emotions Profile">
+  <img src="screenshots/4.2 NRCEmotionsBarChart.png" width="600" alt="NRC Emotions Profile">
 </p>
 
 ### 3. Latent Topics & Sentiment Matching
