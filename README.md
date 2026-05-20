@@ -51,7 +51,7 @@ The LDA model successfully identified $k=5$ distinct thematic clusters. Mapping 
 * **Data Visualization**: `ggplot2`, `wordcloud`, `RColorBrewer`
 
 ## 📂 Dataset Source
-The data utilized in this study is based on the Kaggle COVID-19 Tweets dataset(https://www.kaggle.com/datasets/gpreda/covid19-tweets). Due to GitHub file size limitations, the raw data is not hosted here.
+The data utilized in this study is based on the Kaggle COVID-19 Tweets dataset (https://www.kaggle.com/datasets/gpreda/covid19-tweets). Due to GitHub file size limitations, the raw data is not hosted here.
 
 ---
 *Developed as part of the Data Warehouses and Data Mining Course - Department of Digital Systems, University of Thessaly.*
